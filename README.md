@@ -4,3 +4,6 @@
 Made using this tutorial: http://www.petercollingridge.co.uk/tutorials/3d/pygame/nodes-and-edges/
 
 Thanks to Peter Collingridge
+
+# Running
+Run `python wireframeDisplay.py` in a terminal/command prompt
